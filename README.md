@@ -128,6 +128,6 @@ We welcome contributions from the community! Here's how you can contribute:
 
 ## 💬 Contact
 * Developer: [Omkar Kulkarni](https://github.com/omkarkulkarni2704)
-* Repository: [Smart Event Coordinator](https://github.com/omkarkulkarni2704/Smart-Event-Coordinator)
+* Repository: [EventFlow](https://github.com/omkarkulkarni2704/EventFlow)
 
 ---
