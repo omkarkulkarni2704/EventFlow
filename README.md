@@ -1,4 +1,4 @@
-# 📅 Smart Event Coordinator     
+# 📅 EventFlow     
 
 ### **A web-based platform to efficiently create, manage, and track events with real-time RSVP and notifications.**     
 
