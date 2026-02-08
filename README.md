@@ -7,7 +7,7 @@
 ---                              
                          
 ## 🌟 Key Features
-   
+     
 ### 🧑‍💼 For Organizers:   
 * **Event Creation**: Create events with details like title, description, date, time, and location.
 * **Attendee Management**: Track RSVP responses in real-time (accept/decline).
