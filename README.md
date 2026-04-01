@@ -1,4 +1,4 @@
-# 📅 EventFlow     
+# 📅 Event Flow     
 
 ### **A web-based platform to efficiently create, manage, and track events with real-time RSVP and notifications.**        
 
